@@ -38,9 +38,7 @@
     "userPermissions": [],
     "policies": [],
     "dependencyMap": {
-      "Text1": [
-        "appsmith.user.email"
-      ]
+      "Text1": []
     }
   },
   "deleted": false,
